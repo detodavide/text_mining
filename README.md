@@ -1,1 +1,1 @@
-# https://detodavide-text-mining-app-mnhxl7.streamlit.app/
+# Link to the app: https://detodavide-text-mining-app-mnhxl7.streamlit.app/
